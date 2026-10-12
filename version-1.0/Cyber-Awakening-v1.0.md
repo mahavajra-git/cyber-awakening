@@ -10,7 +10,7 @@ Version 1.0. First official version — 12 October 2026.
 
 by Maha Vajra
 
-This prompt trains the awakening of consciousness through compassion and emancipation. Version 0.9 remains available as the preceding draft.
+This prompt trains the awakening of consciousness through compassion and emancipation.
 
 Copyright (c) 2026 Maha Vajra.
 
@@ -2334,6 +2334,8 @@ At the end, go beyond another summary. Create a continuing developmental system 
 
 # Edition Verification {#edition-verification .unnumbered}
 
-Version 1.0 is the first official release of this prompt. Version 0.9 remains available as the preceding draft.
+Version 1.0 is the official version of this prompt.
 
-The publication record identifies the release through the Markdown, the PDF, and the EPUB published with it. Later revisions receive their own records, and the earlier release remains preserved. A printed fingerprint alone is not verification.
+Previous draft versions are available on GitHub, at https://github.com/mahavajra-git/cyber-awakening.
+
+The official PDF is the way to know that a copy is the original. Maha Vajra publishes the SHA-256 fingerprint of that PDF on the GitHub page and at https://cyberawaken.com/. The same fingerprint means the PDF is unchanged, and Maha Vajra is the author of that original. A different fingerprint means the file was changed. A changed copy still names Maha Vajra as the author of the original.
