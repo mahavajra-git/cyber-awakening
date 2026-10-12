@@ -10,6 +10,8 @@ Version 1.0 is the first official version, 12 October 2026. Open the folder [ver
 - [Markdown](version-1.0/Cyber-Awakening-v1.0.md)
 - [EPUB](version-1.0/Cyber-Awakening-v1.0.epub)
 
+The original version 1.0 is this folder, published by Maha Vajra from [cyberawaken.com](https://cyberawaken.com/). Each file has a SHA-256 fingerprint on the [version 1.0 page](version-1.0). A matching fingerprint means the file is unchanged. A different fingerprint means the file was modified. A modified copy must still credit Maha Vajra — Cyber Awakening — https://cyberawaken.com/ and say what was changed.
+
 ## Version 0.9
 
 Version 0.9 is the draft of 24 September 2026. Open the folder [version-0.9](version-0.9).
