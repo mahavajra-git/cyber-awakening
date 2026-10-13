@@ -8,7 +8,7 @@ First official version, 12 October 2026.
 
 The PDF is the way to know that a copy is the original. Maha Vajra publishes its SHA-256 fingerprint here and at [cyberawaken.com](https://cyberawaken.com/):
 
-`72242403b86dd813c905018b3618eaf462d867dcb125909c96726e10ff005b18`
+`fba3486fcb31629b9feed86134cd26c4d63e8d3593572977ad102d6d30864f69`
 
 The same fingerprint means the PDF is unchanged, and Maha Vajra is the author of that original. A different fingerprint means the file was changed. A changed copy still names Maha Vajra as the author of the original.
 
