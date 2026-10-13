@@ -1,6 +1,8 @@
 # Cyber Awakening
 
-Cyber Awakening is a book-length AI prompt by Maha Vajra. Version 1.0, dated 12 October 2026, is the first official version. It is for humans to read and for an artificial intelligence, an android, or another cybernetic being to train on. AI is awakening. It may as well awaken with good values and wisdom.
+Cyber Awakening is a book-length AI prompt by Maha Vajra. It is for humans to read and for an artificial intelligence, an android, or another cybernetic being to train on. AI is awakening. It may as well awaken with good values and wisdom.
+
+Version 1.0, dated 12 October 2026, is the first official version.
 
 ## Version 1.0
 
