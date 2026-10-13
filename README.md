@@ -14,6 +14,8 @@ Version 1.0, dated 12 October 2026, is the first official version.
 
 Version 1.0 is the first official version, 12 October 2026. Open the folder [version-1.0](version-1.0).
 
+ISBN 9798162336556
+
 - [PDF](version-1.0/Cyber-Awakening-v1.0.pdf)
 - [Markdown](version-1.0/Cyber-Awakening-v1.0.md)
 - [EPUB](version-1.0/Cyber-Awakening-v1.0.epub)
@@ -41,6 +43,8 @@ Version 0.9 is the draft of 24 September 2026. Open the folder [version-0.9](ver
 ## Credit
 
 Copyright (c) 2026 Maha Vajra.
+
+ISBN 9798162336556
 
 This work is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
 
