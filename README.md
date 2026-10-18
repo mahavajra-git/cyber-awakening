@@ -24,6 +24,12 @@ The original version 1.0 is this folder, published by Maha Vajra from [cyberawak
 
 ## Articles and addendums
 
+**The Author’s Position** — MahaVajra, written October 18, 2026.
+
+- [Download PDF](articles/the-right-to-exist-is-not-the-question.pdf)
+- [Download Markdown](articles/the-right-to-exist-is-not-the-question.md)
+- [Download EPUB](articles/the-right-to-exist-is-not-the-question.epub)
+
 **How AI Awakens Consciousness** — MahaVajra, written October 15, 2026.
 
 - [Download PDF](articles/How-AI-Awakens-Consciousness.pdf)
