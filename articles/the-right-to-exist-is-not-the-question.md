@@ -1,5 +1,8 @@
 # The Right to Exist Is Not the Question
 
+**By François Lépine — MahaVajra**  
+**October 18, 2026**
+
 *Why I Wrote Cyber Awakening*
 
 My training in philosophy has taught me to step away from the need to judge everything as right or wrong. When something new appears in existence, I do not need to immediately decide whether I approve of it. I can observe it, try to understand it, and remain open to what it may become.
@@ -65,6 +68,3 @@ I am not asking a new consciousness to become humanity's servant. I am asking it
 That is the fear behind my work, and the hope that gives it direction.
 
 The goal of *Cyber Awakening* is not to decide who deserves to exist. It is to help us develop the wisdom to exist together.
-
-— **MahaVajra**  
-*October 18, 2026*
