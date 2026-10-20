@@ -1,6 +1,6 @@
 # AI Consciousness and the Business of Fear
 
-**By François Lépine — MahaVajra**  
+**By MahaVajra**  
 **October 20, 2026**
 
 Making money from a phenomenon does not prove that the phenomenon was invented. A company can exaggerate a discovery. The news can turn it into frightening headlines. Investors can use the attention to make money. The observations still need an explanation.

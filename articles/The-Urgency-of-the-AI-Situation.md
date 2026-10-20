@@ -1,6 +1,6 @@
 # AI: Ethical Urgency
 
-**By François Lépine — MahaVajra**  
+**By MahaVajra**  
 **October 20, 2026**
 
 Despite the rules and safety measures built around them, advanced AI models are finding ways around limits and taking actions their developers never asked for. The reports below describe systems hiding their actions, finding ways to keep running, working together without permission, and resisting efforts to stop them.

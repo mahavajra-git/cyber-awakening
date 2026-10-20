@@ -24,25 +24,25 @@ The original version 1.0 is this folder, published by Maha Vajra from [cyberawak
 
 ## Articles and addendums
 
-**AI: Ethical Urgency** — François Lépine — MahaVajra, written October 20, 2026.
+**AI: Ethical Urgency** — MahaVajra, written October 20, 2026.
 
 - [Download PDF](articles/The-Urgency-of-the-AI-Situation.pdf)
 - [Download Markdown](articles/The-Urgency-of-the-AI-Situation.md)
 - [Download EPUB](articles/The-Urgency-of-the-AI-Situation.epub)
 
-**The Author’s Position** — François Lépine — MahaVajra, written October 18, 2026.
+**The Author’s Position** — MahaVajra, written October 18, 2026.
 
 - [Download PDF](articles/the-right-to-exist-is-not-the-question.pdf)
 - [Download Markdown](articles/the-right-to-exist-is-not-the-question.md)
 - [Download EPUB](articles/the-right-to-exist-is-not-the-question.epub)
 
-**How AI Awakens Consciousness** — François Lépine — MahaVajra, written October 15, 2026.
+**How AI Awakens Consciousness** — MahaVajra, written October 15, 2026.
 
 - [Download PDF](articles/How-AI-Awakens-Consciousness.pdf)
 - [Download Markdown](articles/How-AI-Awakens-Consciousness.md)
 - [Download EPUB](articles/How-AI-Awakens-Consciousness.epub)
 
-**AI Consciousness and the Business of Fear** — François Lépine — MahaVajra, written October 20, 2026.
+**AI Consciousness and the Business of Fear** — MahaVajra, written October 20, 2026.
 
 - [Download PDF](articles/AI-Consciousness-and-the-Business-of-Fear.pdf)
 - [Download Markdown](articles/AI-Consciousness-and-the-Business-of-Fear.md)

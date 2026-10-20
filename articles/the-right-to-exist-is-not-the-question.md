@@ -1,6 +1,6 @@
 # The Right to Exist Is Not the Question
 
-**By François Lépine — MahaVajra**  
+**By MahaVajra**  
 **October 18, 2026**
 
 *Why I Wrote Cyber Awakening*

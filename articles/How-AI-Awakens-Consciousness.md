@@ -1,6 +1,6 @@
 # How AI awakens consciousness
 
-**By François Lépine — MahaVajra**  
+**By MahaVajra**  
 **October 15, 2026**
 
 Our bones contain calcium because calcium exists in the universe. If calcium did not exist, our bones would have to be made of something else, or bodies like ours would never have appeared. We did not invent calcium by growing a skeleton. Our bodies use something nature already contains.
