@@ -22,6 +22,10 @@ ISBN 9798162336556
 
 The original version 1.0 is this folder, published by Maha Vajra from [cyberawaken.com](https://cyberawaken.com/). The PDF is the way to know that a copy is the original. Its SHA-256 fingerprint is on the [version 1.0 page](version-1.0). The same fingerprint means the PDF is unchanged, and Maha Vajra is the author of that original. A different fingerprint means the file was changed. A changed copy must still credit Maha Vajra — Cyber Awakening — https://cyberawaken.com/.
 
+[Download the full archive — book, prompt, and articles (ZIP)](Cyber-Awakening-Full-Archive.zip)
+
+The archive includes every published PDF, Markdown and EPUB, organized into book/prompt and article folders.
+
 ## Articles and addendums
 
 **AI: Ethical Urgency** — MahaVajra, written October 20, 2026.
@@ -87,3 +91,4 @@ You may copy this prompt and change it. If you share the prompt, or anything you
 Maha Vajra — Cyber Awakening — https://cyberawaken.com/
 
 Say what you changed.
+
