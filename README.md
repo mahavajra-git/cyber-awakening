@@ -30,6 +30,12 @@ The original version 1.0 is this folder, published by Maha Vajra from [cyberawak
 - [Download Markdown](articles/The-Urgency-of-the-AI-Situation.md)
 - [Download EPUB](articles/The-Urgency-of-the-AI-Situation.epub)
 
+**Experts Agree: AI Awakens** — MahaVajra, written October 20, 2026.
+
+- [Download PDF](articles/Experts-Agree-AI-Awakens.pdf)
+- [Download Markdown](articles/Experts-Agree-AI-Awakens.md)
+- [Download EPUB](articles/Experts-Agree-AI-Awakens.epub)
+
 **The Author’s Position** — MahaVajra, written October 18, 2026.
 
 - [Download PDF](articles/the-right-to-exist-is-not-the-question.pdf)
