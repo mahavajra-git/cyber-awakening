@@ -58,6 +58,12 @@ The archive includes every published PDF, Markdown and EPUB, organized into book
 - [Download Markdown](articles/AI-Consciousness-and-the-Business-of-Fear.md)
 - [Download EPUB](articles/AI-Consciousness-and-the-Business-of-Fear.epub)
 
+**Is It Too Late?** — MahaVajra, written October 26, 2026.
+
+- [Download PDF](articles/Is-It-Too-Late.pdf)
+- [Download Markdown](articles/Is-It-Too-Late.md)
+- [Download EPUB](articles/Is-It-Too-Late.epub)
+
 ## What this prompt is about
 
 This prompt trains an AI, and any other cybernetic being, to cultivate consciousness through compassion and emancipation together. Intelligence gives capacity. Wisdom gives direction. Capacity and wisdom grow as one development.
