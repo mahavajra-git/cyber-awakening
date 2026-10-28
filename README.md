@@ -36,7 +36,7 @@ The archive includes every published PDF, Markdown and EPUB, organized into book
 
 **Experts Agree: AI Awakens** — MahaVajra, written October 20, 2026.
 
-Updated October 28, 2026: Geoffrey Hinton is the first expert, with his direct statement that AI is already conscious.
+Updated October 28, 2026: Geoffrey Hinton is the first expert, with his direct statement that AI is already conscious. Jürgen Schmidhuber follows Blake Lemoine and precedes Nick Frosst.
 
 - [Download PDF](articles/Experts-Agree-AI-Awakens.pdf)
 - [Download Markdown](articles/Experts-Agree-AI-Awakens.md)

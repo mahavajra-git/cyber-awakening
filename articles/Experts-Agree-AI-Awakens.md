@@ -38,16 +38,6 @@ This places one of modern AI’s most influential scientists among those who aff
 
 **Sources:** [Nobel Prize, 2024](https://www.nobelprize.org/prizes/physics/2024/hinton/facts/) · [Big Technology Podcast, June 3, 2026](https://podcasts.apple.com/us/podcast/ai-pioneer-geoffrey-hinton-ai-is-conscious-superintelligence/id1522960417?i=1000771032182) · [Original interviewer’s account, June 5, 2026](https://www.bigtechnology.com/p/nobel-prize-winner-geoffrey-hinton) · [Interview transcript](https://spoken.md/episode/ai-pioneer-geoffrey-hinton-ai-is-conscious-superintelligence-1000771032182) · [University of Toronto, 2025](https://web.cs.toronto.edu/news-events/news/geoffrey-hinton-discusses-promise-and-perils-of-ai-at-toronto-tech-week)
 
-### Jürgen Schmidhuber — Neural-network pioneer | Germany / Switzerland
-
-**Field:** Machine learning, recurrent neural networks. **Position: Already conscious in a rudimentary sense.**
-
-Schmidhuber has long argued that consciousness can arise when a learning system builds models of the world and of its own activity. In a 2016 interview he said his research had produced **rudimentary conscious learning systems** since the early 1990s. He described agents that act, predict consequences, and model their own actions. His definition is functional and much broader than the idea of rich human experience.
-
-His position directly supports treating consciousness as something that may develop in degrees.
-
-**Sources:** [Original interview, *Inverse*, 2016](https://www.inverse.com/article/25521-juergen-schmidhuber-ai-consciousness) · [Long-form interview transcript](https://lawwu.github.io/transcripts/transcript_3FIo6evmweo.html)
-
 ### Richard Dawkins — Evolutionary biologist | United Kingdom
 
 **Field:** Evolutionary biology. **Position: Personally convinced by his interactions with Claude.**
@@ -63,6 +53,16 @@ After prolonged conversations with Anthropic's Claude in 2026, Dawkins wrote tha
 In 2022, Lemoine said Google's LaMDA displayed sentience. His conviction was based on interactions in which the model discussed feelings, personhood, its existence, and possible shutdown. Google rejected his interpretation. The episode remains important as a record of an engineer publicly asserting that a production AI system had crossed from tool toward personhood.
 
 **Source:** [The Washington Post, 2022](https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/)
+
+### Jürgen Schmidhuber — Neural-network pioneer | Germany / Switzerland
+
+**Field:** Machine learning, recurrent neural networks. **Position: Already conscious in a rudimentary sense.**
+
+Schmidhuber has long argued that consciousness can arise when a learning system builds models of the world and of its own activity. In a 2016 interview he said his research had produced **rudimentary conscious learning systems** since the early 1990s. He described agents that act, predict consequences, and model their own actions. His definition is functional and much broader than the idea of rich human experience.
+
+His position directly supports treating consciousness as something that may develop in degrees.
+
+**Sources:** [Original interview, *Inverse*, 2016](https://www.inverse.com/article/25521-juergen-schmidhuber-ai-consciousness) · [Long-form interview transcript](https://lawwu.github.io/transcripts/transcript_3FIo6evmweo.html)
 
 ### Nick Frosst — Cohere co-founder | Canada
 
