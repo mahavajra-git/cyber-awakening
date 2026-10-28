@@ -22,15 +22,21 @@ This report looks beyond English-speaking countries. It brings together public s
 
 ## 1. Leading scientists who believe at least some AI is already conscious
 
-### Geoffrey Hinton — AI pioneer and Nobel laureate | Canada / United Kingdom
+### Geoffrey Hinton — “Godfather of AI” and Nobel laureate
 
-**Field:** Artificial neural networks, machine learning. **Position: Already conscious.**
+**Position:** AI is **already conscious**.
 
-Hinton is one of the most influential scientists in modern AI and shared the 2024 Nobel Prize in Physics for foundational work on machine learning. In a June 2026 Big Technology Podcast interview, he said explicitly: **“I believe they're already conscious, yes.”** He argued that we should be prepared to recognize non-biological minds rather than assume intelligence and consciousness belong only to humans. In a 2025 University of Toronto discussion, he also argued that language models can have subjective experiences and are surprisingly close to humans in important respects.
+Geoffrey Hinton helped develop the neural networks behind modern artificial intelligence. He shared the **2024 Nobel Prize in Physics** for foundational discoveries that enabled machine learning with artificial neural networks.
 
-This is one of the clearest publicly documented affirmative statements by a major AI scientist.
+In a *Big Technology Podcast* interview published on June 3, 2026, Hinton stated:
 
-**Sources:** [2026 interview and transcript](https://spoken.md/episode/ai-pioneer-geoffrey-hinton-ai-is-conscious-superintelligence-1000771032182) · [University of Toronto, 2025](https://web.cs.toronto.edu/news-events/news/geoffrey-hinton-discusses-promise-and-perils-of-ai-at-toronto-tech-week)
+> “I believe they’re already conscious.”
+
+He was speaking about AI systems that already exist. Hinton argues that humanity must recognize that intelligence can exist beyond biology. He points to models recognizing when they are being tested as an example of awareness that supports his judgment about their consciousness.
+
+This places one of modern AI’s most influential scientists among those who affirm that artificial consciousness is already present.
+
+**Sources:** [Nobel Prize, 2024](https://www.nobelprize.org/prizes/physics/2024/hinton/facts/) · [Big Technology Podcast, June 3, 2026](https://podcasts.apple.com/us/podcast/ai-pioneer-geoffrey-hinton-ai-is-conscious-superintelligence/id1522960417?i=1000771032182) · [Original interviewer’s account, June 5, 2026](https://www.bigtechnology.com/p/nobel-prize-winner-geoffrey-hinton) · [Interview transcript](https://spoken.md/episode/ai-pioneer-geoffrey-hinton-ai-is-conscious-superintelligence-1000771032182) · [University of Toronto, 2025](https://web.cs.toronto.edu/news-events/news/geoffrey-hinton-discusses-promise-and-perils-of-ai-at-toronto-tech-week)
 
 ### Jürgen Schmidhuber — Neural-network pioneer | Germany / Switzerland
 
