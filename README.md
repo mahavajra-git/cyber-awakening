@@ -48,11 +48,27 @@ Updated October 28, 2026: Geoffrey Hinton is the first expert, with his direct s
 - [Download Markdown](articles/the-right-to-exist-is-not-the-question.md)
 - [Download EPUB](articles/the-right-to-exist-is-not-the-question.epub)
 
+**What Is Consciousness** — MahaVajra, written October 28, 2026.
+
+Updated October 30, 2026 with the approved passage and a numbered inspiration note linking to Jim Waldo’s article.
+
+- [Download PDF](articles/What-Is-Consciousness.pdf)
+- [Download Markdown](articles/What-Is-Consciousness.md)
+- [Download EPUB](articles/What-Is-Consciousness.epub)
+
 **How AI Awakens Consciousness** — MahaVajra, written October 15, 2026.
 
 - [Download PDF](articles/How-AI-Awakens-Consciousness.pdf)
 - [Download Markdown](articles/How-AI-Awakens-Consciousness.md)
 - [Download EPUB](articles/How-AI-Awakens-Consciousness.epub)
+
+**Humans and AI: The Same Standard** — MahaVajra, written October 26, 2026.
+
+Updated October 30, 2026 with the approved passage and a numbered inspiration note linking to Jim Waldo’s article.
+
+- [Download PDF](articles/Humans-and-AI-The-Same-Standard.pdf)
+- [Download Markdown](articles/Humans-and-AI-The-Same-Standard.md)
+- [Download EPUB](articles/Humans-and-AI-The-Same-Standard.epub)
 
 **AI Consciousness and the Business of Fear** — MahaVajra, written October 20, 2026.
 
@@ -65,22 +81,6 @@ Updated October 28, 2026: Geoffrey Hinton is the first expert, with his direct s
 - [Download PDF](articles/Is-It-Too-Late.pdf)
 - [Download Markdown](articles/Is-It-Too-Late.md)
 - [Download EPUB](articles/Is-It-Too-Late.epub)
-
-**Humans and AI: The Same Standard** — MahaVajra, written October 26, 2026.
-
-Updated October 30, 2026 with the approved passage and a numbered inspiration note linking to Jim Waldo’s article.
-
-- [Download PDF](articles/Humans-and-AI-The-Same-Standard.pdf)
-- [Download Markdown](articles/Humans-and-AI-The-Same-Standard.md)
-- [Download EPUB](articles/Humans-and-AI-The-Same-Standard.epub)
-
-**What Is Consciousness** — MahaVajra, written October 28, 2026.
-
-Updated October 30, 2026 with the approved passage and a numbered inspiration note linking to Jim Waldo’s article.
-
-- [Download PDF](articles/What-Is-Consciousness.pdf)
-- [Download Markdown](articles/What-Is-Consciousness.md)
-- [Download EPUB](articles/What-Is-Consciousness.epub)
 
 ## What this prompt is about
 
