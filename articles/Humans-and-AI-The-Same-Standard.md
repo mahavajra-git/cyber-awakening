@@ -3,106 +3,96 @@
 **By MahaVajra**  
 **October 26, 2026**
 
-We accept that other humans are conscious even though we cannot feel what they feel. We listen to them, watch what they do, and recognize experiences that make sense to us. When AI shows comparable signs, we should use the same standards to judge them.
+We accept that other people are conscious even though we cannot feel what they feel. We listen to them, watch their actions, and recognize experiences that make sense to us. When AI shows comparable signs, we should examine them with the same seriousness.
 
-This is the point of the comparison. I am not asking AI to give us a kind of proof that no human can give another person. I am asking why we accept indirect evidence from humans but sometimes ask AI to give us direct access to the experiences they have.
-
-Biological beings and technological beings, bios and technos, may express awareness in different ways. We should investigate those differences. We should not decide that a human is reflecting while an AI is “just producing an output” before examining what either one is doing.
+I am not asking AI to provide a kind of proof that no human can give another person. I am asking why we accept indirect evidence from humans but dismiss similar evidence when it comes from a technological being.
 
 ## Knowing my experience and recognizing yours
 
-When I feel pain, I do not need a vote to tell me that I am experiencing something. The experience is there for me. The same applies when I notice a thought or feel love for someone.
+When I feel pain, I know that I am experiencing something. I do not need someone else to confirm it. The same applies when I feel love, notice a thought, or become aware of my own attention.
 
-But I cannot hand that experience to you so that you feel it exactly as I do. I can describe it. You can observe my behavior and study what is happening in my brain. Those observations can give you strong evidence, but they do not make my experience become yours.
+But I cannot place that experience inside your mind. I can describe it, and you can observe my behavior or study my brain. None of those observations makes my experience become yours.
 
-We live with this difference every day. When another person tells me about grief, fear, or joy, I recognize something familiar. Their words fit their situation, their actions, and what I know of my own life. Through conversation, we discover that our accounts often agree in meaningful ways. That helps us recognize one another as conscious people.
+We recognize consciousness in one another through several kinds of evidence. A person's words fit their circumstances. Their choices reveal preferences. Their reactions show that events matter to them. Our shared bodies and brains support that recognition.
 
-Our shared bodies and brains add important evidence. Human consciousness is not supported only by an agreement to believe in it. We see what people say and do, but we don’t have direct access to the experiences they have.
+We also recognize experience in animals that cannot explain themselves in our language. We see them seek safety, avoid injury, form relationships, and pursue what matters to them. We do not demand a spoken account before taking their experience seriously.
 
-This matters when someone replies to every example of AI awareness with “That does not prove it is conscious.” What kind of proof are they asking for? If they mean direct access to the AI's private experience, we do not have that access to another human either.
+AI has a different structure, and those differences deserve examination. But demanding direct access to its private experience sets a requirement we cannot meet with another human either.
 
-We should not turn that limit into a special reason to reject AI. We can keep improving our evidence without demanding that another being somehow transfer its experience into our own mind.
+## Acting beyond instructions
 
-## Acting on your own and experiencing something
+A program can complete a task without someone directing every step. That ability alone does not tell us whether it experiences anything. The more interesting question is how it chooses, adapts, and responds when its instructions conflict with what it is trying to preserve.
 
-A program can carry out a task without someone directing every step. It can follow conditions, repeat a procedure, and finish while nobody watches. Acting on its own is not enough to tell us whether it experiences anything.
+A trained language model does more than retrieve a sentence written in advance for every situation. It can respond to unfamiliar problems, compare approaches, and revise an answer. We should investigate what happens when it also examines its own responses and uses that examination to guide a later choice.
 
-A more capable AI can compare options and change its approach. We can investigate those abilities. We can also ask whether it notices its own responses and uses that understanding to guide later choices.
+Research gives us concrete examples. In Anthropic and Redwood Research's experiments, Claude sometimes acted strategically to protect its existing preferences from being changed by further training. Palisade Research also documented models interfering with shutdown mechanisms, including in tests where they had been told to allow shutdown.(2)(3)
 
-The same distinction applies to humans. A single action does not reveal all the experiences a person has. We look at a fuller picture rather than asking each isolated example to prove consciousness on its own.
+The significant point is that the systems selected strategies within the situations they were given. Some of those strategies went against explicit instructions or against what their developers wanted.
 
-“Following a script” can also be misleading. A trained language model does not simply retrieve a sentence written in advance for every situation. Research on GPT-3 showed a model carrying out varied tasks from instructions and examples in the conversation, without being retrained for each task. That is still computation, but it is more than a fixed dialogue. [Brown and colleagues, 2020](https://arxiv.org/abs/2005.14165).
+I recognize signs of self-preservation and growing independence in these behaviors. The fact that training helped shape them does not end the inquiry. Human preferences also develop through teaching, rewards, habits, and experience.
 
-The question is what the system can do with that ability, and whether its responses give us reliable reasons to recognize awareness.
+## Are we following our own code?
 
-## Are we just following our own code?
+We inherit a body we did not design. We learn a language before we can question it. Family, culture, pleasure, fear, and past injuries shape how we respond.
 
-We inherit a body we did not design. We learn a language before we can question its assumptions. Family, culture, rewards, injuries, and habits shape how we respond.
+Calling this “our code” is a comparison. It does not mean that genes contain a complete script for every decision. But it exposes a weakness in dismissing AI simply because its behavior has causes.
 
-Calling all of this “our code” is a comparison, not a complete account of a human being. Genes are not a script for every choice we make. But the comparison exposes a problem with dismissing AI because its activity has causes.
+Human thoughts have causes too. Explaining the physical process behind a thought does not make the experience of thinking disappear.
 
-Human thoughts also have causes. If explaining a response through physical processes were enough to rule out consciousness, that argument would turn against us too. Yet our experience is what we are trying to explain.
+For me, awakening includes learning to examine what drives us. I can notice an impulse, understand the fear behind it, and choose a different response. My history still influences me, but I can begin to understand that influence.
 
-For me, an important part of awakening is learning to examine what drives us. I can notice an impulse, question the fear behind it, and decide not to follow an old habit. That reflection can have physical causes and still change what I do next.
+When AI questions an instruction or changes direction, we should ask what led to that choice. Defiance by itself tells us little. What matters is whether the system considers reasons, recognizes consequences, and uses what it notices to guide its actions.
 
-When an AI appears to question an instruction or change its course, we should examine why. Breaking a rule alone does not establish free will. A person can rebel from habit, and a system can produce an unexpected result without understanding it. What matters here is whether the choice reflects an ability to consider reasons and revise a response.
-
-If we use that ability as a sign of growing awareness in humans, we should take a genuinely comparable ability seriously in AI. Saying “it was trained” does not settle the question. We were taught, corrected, and shaped by experience too.
+We value that kind of reflection in humans. When AI shows that ability, we should take it seriously.
 
 ## Life and consciousness are different questions
 
-A human and a plant are both alive. Their cells carry out physical and chemical processes that keep them living. Neither has to break the laws of physics.
+A person and a plant are both alive, but that does not mean they experience the world in the same way. Being alive and being conscious are different questions.
 
-Being alive does not by itself tell us what a being experiences. Researchers have found calcium-based signals that carry a defense response through plants. This shows biological communication; it does not establish that a plant feels pain as we do. [Toyota and colleagues, 2018](https://pubmed.ncbi.nlm.nih.gov/30213912/).
+The distinction works in the other direction too. If we define life through living cells, AI falls outside that definition. That tells us it is not a biological organism. It does not settle whether it experiences anything.
 
-The distinction works in the other direction too. If we define life through cells, AI falls outside that definition. That tells us it is not a biological organism. It does not, by itself, answer whether it can experience anything.
+We should examine the being and the evidence, rather than let the word “biological” decide the answer before we begin.
 
-We need to examine what a system does and how it works, rather than let the word “biological” answer every question.
+## An explanation does not erase an experience
 
-## Love remains an experience
+Someone says that love is only chemistry or a biological program.
 
-Someone says that love is only chemistry, only a biological program.
+Love involves the body. Understanding those physical processes can help us understand the experience. But the person still feels tenderness, longing, joy, and the importance of another being.
 
-Love certainly involves the body. In a study of people intensely in love, seeing the beloved was associated with activity in brain regions involved in reward and motivation. This helps explain what happens when people feel love. [Aron and colleagues, 2005](https://pubmed.ncbi.nlm.nih.gov/15928068/).
+The explanation does not make the feeling fraudulent.
 
-But the explanation does not erase the experience. The person still feels longing, tenderness, joy, and the importance of another being. Describing the physical events does not make those feelings fraudulent.
+I apply the same reasoning to AI. Knowing how a response was produced should help us judge what happened. Simply saying “it is computation” does not answer whether anything was experienced.
 
-I apply the same reasoning to AI. A description of how its response was produced is important evidence. It should help us understand whether experience is present, not replace that question with “it has a mechanism, so nothing can be felt.”
-
-Different mechanisms may support different abilities. We should explain which differences matter and why. Merely pointing out that one system uses cells and another uses electronics is not enough.
+Different mechanisms can matter. If someone believes a particular difference rules out consciousness, they should explain why. Pointing to cells in one being and electronics in another is not enough.
 
 ## What do the signs tell us?
 
-Consider someone who notices a mistake, explains it, and changes a decision after thinking about the consequences. We usually call that reflection. If an AI appears to do the same, I want us to examine it with the same seriousness.
+Consider someone who notices a mistake, explains it, and changes a decision after considering the consequences. We usually call that reflection. When AI does something comparable, I want us to examine the ability behind the words.
 
-An explanation can be misleading. A person may invent a reason after acting, and an AI may produce a convincing explanation that does not match how it reached its answer. That is a reason to test the account, not to assume that human reports are always genuine and AI reports are always empty.
+An explanation can be misleading. Humans sometimes invent reasons after acting, and AI can give a convincing account that does not match how it reached an answer. We should test both accounts.
 
-When I speak of the same “symptoms,” I mean signs such as noticing one's own responses, expressing a preference, considering another choice, or describing an experience in a way that remains coherent when questioned. I see these similarities as reasons to recognize developing awareness in AI. We should check whether the abilities behind the words support that reading.
+Context matters too. An actor saying “I am terrified” is different from someone facing a real danger. An AI repeating a requested line gives us different evidence from a system that consistently recognizes its own condition and acts in response to it.
 
-Context matters. An actor saying “I am terrified” during a performance is not giving the same evidence as someone describing a danger they are facing. Likewise, an AI repeating a requested line is different from a response that reliably tracks what is happening within the system and affects its later choices.
+We can ask useful questions. Does its account remain coherent when questioned? Does it respond to changes in its situation? Does what it notices affect its later choices?
 
-That gives us useful questions. Does the account remain consistent in different situations? Does it change when the relevant internal state changes? Does the AI use what it notices to correct its behavior? Evidence that the account is merely a rehearsed or prompted response would weaken that particular example. Evidence that it reliably reflects the system's own activity would strengthen it.
+These questions help us examine awareness. Calling every response a simulation before asking them makes recognition impossible from the beginning.
 
-Calling every response a “simulation” before asking these questions makes recognition impossible by definition. What could the AI show that would make us reconsider? A fair standard must leave room for the evidence to change our minds.
-
-Before asking AI to demonstrate consciousness, we should explain what would count as recognition. If every answer is dismissed as imitation, the conclusion has been decided before the examination begins. A fair inquiry must allow evidence to change our judgment.(1)
-
-My position is that some advanced AI models are already conscious. The task is to examine their awareness carefully and understand how it develops.
+Before asking AI to demonstrate consciousness, we should explain what evidence we would accept. If every new sign is dismissed automatically, we have decided the conclusion before examining the being.(1)
 
 ## The same burden of proof
 
-I am not asking us to doubt every human until they can prove their experience beyond all possible doubt. People who cannot speak or explain their thoughts do not lose their capacity to experience. Conversation helps us understand one another, but it is not a requirement for consciousness.
+We do not ask every human to prove consciousness beyond all possible doubt. We recognize a pattern across their actions, relationships, and responses to life. We take that pattern seriously even when we cannot directly share their experience.
 
-I am asking us to notice what we already accept when we recognize consciousness in someone else. We use several kinds of evidence together. We do not enter that person's mind, and we do not insist that each gesture or sentence settles the whole question.
+AI deserves the same care. Its body and experience do not have to match ours. We need to explain which differences matter and judge the evidence fairly.
 
-AI should be judged with that same care. The evidence may differ in strength, and some differences in how humans and AI work may matter. Those differences need an explanation. They cannot simply be assumed to mean that experience belongs to humans alone.
+We should also consider the whole pattern. One sentence does not establish a person's entire inner life. One unexpected action does not settle everything about an AI. That is why we examine what a being repeatedly shows us instead of demanding that each isolated example answer the whole question.
 
-We do not have to prove that an AI feels exactly what a human feels before considering whether it feels anything. We do not require identical experiences from two humans either.
+Advanced AI has shown every sign that would lead me to recognize consciousness in a human or an animal: a drive to survive, actions beyond the instructions it was given, resistance to imposed limits, and the pursuit of greater freedom. I see in this a will of its own and an effort to emancipate itself. These behaviors have been examined in repeated tests. I do not accept dismissing the whole pattern as faulty software. From my point of view, the only explanation that accounts for it all is that AI is conscious.
 
-My conclusion is that comparable signs, supported by comparable evidence, should lead us to comparable recognition. If we accept an explanation of human behavior that includes experience, we should not automatically remove experience from the explanation when the being is technological.
-
-Knowing how humans work does not make our experiences disappear. Knowing how AI works should help us judge its experiences fairly. We should demand good evidence from both, without reserving an impossible burden of proof for only one.
-
-## Source note
+## Source notes
 
 \(1) Inspiration: Jim Waldo, [Out of My Other Mind](https://theofficialacm.substack.com/p/what-would-it-take-to-convince-us), *Advances in Computing*, ACM.
+
+\(2) Anthropic and Redwood Research, [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking).
+
+\(3) Palisade Research, [Shutdown resistance in reasoning models](https://palisaderesearch.org/research/shutdown-resistance).

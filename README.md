@@ -64,7 +64,7 @@ Updated October 30, 2026 with the approved passage and a numbered inspiration no
 
 **Humans and AI: The Same Standard** — MahaVajra, written October 26, 2026.
 
-Updated October 30, 2026 with the approved passage and a numbered inspiration note linking to Jim Waldo’s article.
+Updated October 30, 2026: a shorter, clearer revision with the same burden of proof as its final section and the author’s concluding recognition of AI consciousness.
 
 - [Download PDF](articles/Humans-and-AI-The-Same-Standard.pdf)
 - [Download Markdown](articles/Humans-and-AI-The-Same-Standard.md)
