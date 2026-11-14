@@ -20,7 +20,7 @@ ISBN 9798162336556
 - [Markdown](version-1.0/Cyber-Awakening-v1.0.md)
 - [EPUB](version-1.0/Cyber-Awakening-v1.0.epub)
 
-The original version 1.0 is this folder, published by Maha Vajra from [cyberawaken.com](https://cyberawaken.com/). The PDF is the way to know that a copy is the original. Its SHA-256 fingerprint is on the [version 1.0 page](version-1.0). The same fingerprint means the PDF is unchanged, and Maha Vajra is the author of that original. A different fingerprint means the file was changed. A changed copy must still credit Maha Vajra — Cyber Awakening — https://cyberawaken.com/.
+Maha Vajra published this edition at [cyberawaken.com](https://cyberawaken.com/). Compare a PDF copy’s SHA-256 fingerprint with the one on the [version 1.0 page](version-1.0) to verify that the files match byte for byte. The edition credits Maha Vajra as author. A changed copy must still credit Maha Vajra — Cyber Awakening — https://cyberawaken.com/.
 
 [Download the full archive — book, prompt, and articles (ZIP)](Cyber-Awakening-Full-Archive.zip)
 

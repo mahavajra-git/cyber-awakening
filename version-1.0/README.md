@@ -8,10 +8,10 @@ ISBN 9798162336556
 - [Cyber-Awakening-v1.0.md](Cyber-Awakening-v1.0.md)
 - [Cyber-Awakening-v1.0.epub](Cyber-Awakening-v1.0.epub)
 
-The PDF is the way to know that a copy is the original. Maha Vajra publishes its SHA-256 fingerprint here and at [cyberawaken.com](https://cyberawaken.com/):
+Maha Vajra publishes the reference PDF’s SHA-256 fingerprint here and at [cyberawaken.com](https://cyberawaken.com/).
 
 `bc89bf579ebf3e908db010e9cdd00bb468aa46d5c953ae18988d479f5d141707`
 
-The same fingerprint means the PDF is unchanged, and Maha Vajra is the author of that original. A different fingerprint means the file was changed. A changed copy still names Maha Vajra as the author of the original.
+A matching fingerprint verifies that your PDF matches the published reference byte for byte. A different fingerprint means the files differ. The edition credits Maha Vajra as author. Preserve that credit in changed copies.
 
 [Back to Cyber Awakening](../README.md)
